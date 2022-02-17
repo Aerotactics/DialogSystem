@@ -1,0 +1,21 @@
+{
+    "m_eventDefault": [
+        "SomeFileName"
+    ],
+    "m_eventInterrupt": [
+        "SomeInterruptName"
+    ],
+    "m_eventAbort": [
+        "SomeAbortName"
+    ],
+    "m_eventEarly": [],
+    "m_eventLate": [],
+    "m_eventReturn": [],
+    "m_unstoppable": false,
+    "m_persistent": false,
+    "m_canRepeat": false,
+    "m_previousSequence": "",
+    "m_nextSequence": "",
+    "m_minTime": 0.0,
+    "m_maxTime": 0.0
+}
